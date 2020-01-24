@@ -8,4 +8,11 @@ When I was working with few clients based in London, Germany, and Portugal, this
 I have got a lot of positive feedback on this app from my colleagues and clients I have worked with.
 This app is still under development and I am adding support for iPad and MacOS and will be on App store soon.
 
+You can check the working of the app on YouTube: https://youtu.be/0BwQ_qclFSU
+
 # Screenshots
+![World Clock](https://github.com/KalpeshTalkar/Time-Predict---Produest-Achievement/blob/master/World%20Clock.PNG)
+
+![World Clock - Manipulated Time](https://github.com/KalpeshTalkar/Time-Predict---Produest-Achievement/blob/master/World%20Clock%20-%20Manipulated%20Time.PNG)
+
+![Add City](https://github.com/KalpeshTalkar/Time-Predict---Produest-Achievement/blob/master/Add%20Cities.PNG)
