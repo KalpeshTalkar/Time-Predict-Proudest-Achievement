@@ -1,4 +1,4 @@
-# Time Predict - Produest Achievement
+# Time Predict - Proudest Achievement
 
 My proudest achievement is a personal iOS app named Time Predict. This app is similar to the default clock app that allows to add cities/countries from the world that helps us know the time in that specific city/country.
 Additionally, I have added a landscape image on each city that shows if it's day or night in that particular city. The image is drawn programmatically using ```CALayers``` and ```UIBezierPaths```.
